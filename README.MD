@@ -1,7 +1,9 @@
 ## MODIFICATIONS TO DATA
 
 Changed all data to be lower case and have no spaces, dashes are still valid
+
 Eases querying
+
 Ex: Balance of Matanuska-Susitna Borough,Alaska,93069 ---> balanceofmatanuska-susitnaborough,alaska,93069
 
 ## ASSUMPTIONS
@@ -10,6 +12,7 @@ A PUT request must be a valid state, but the city can be created
 
 Ex:
 PUT(fakeState, newCity) ---> ERR
+
 PUT(validState, newCity) ---> New Entry Created.
 
 ## FILE STRUCTURE
