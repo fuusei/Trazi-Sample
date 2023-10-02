@@ -20,3 +20,7 @@ Have routes and controllers folders which would lend well for scaling, but are a
 
 Express - neater routing
 CSV - for easy parsing of csv data
+
+## CLOSING STATEMENTS
+
+Thank you for the opportunity and have a nice day!
